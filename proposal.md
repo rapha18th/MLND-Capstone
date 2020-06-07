@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
 Rairo Mukamuri
-June 5th, 2020
+June 6th, 2020
 
 
 ## Proposal
@@ -48,7 +48,7 @@ The project is expected to follow the steps below:
 
 ### References
 
-- Original crowdai dataset https://github.com/SpikerJG/PlantDiseaseData.git
+- Original crowdai dataset https://github.com/MichaelGerhard/PlantDiseaseData
 - Resnet, https://neurohive.io/en/popular-networks/resnet/
 -  David Hughes paper, https://arxiv.org/ftp/arxiv/papers/1604/1604.03169.pdf
 - Viridiana Romero Martinez's medium article https://medium.com/datadriveninvestor/creating-an-ai-app-that-detect-diseases-in-plants-using-facebooks-deep-learning-platform-pytorch-15faaeb6bec3
