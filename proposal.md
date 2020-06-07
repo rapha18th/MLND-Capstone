@@ -30,7 +30,7 @@ The solution will be a fastai classification model capable of correctly identify
 
 ### Benchmark Model
 
-For this problem, the benchmark model will be resnet-152 pytorch classifier developed by Viridiana Romero Martinez as referenced in her medium article https://medium.com/datadriveninvestor/creating-an-ai-app-that-detect-diseases-in-plants-using-facebooks-deep-learning-platform-pytorch-15faaeb6bec3. The model produced a high accuracy score, 96.1% and the goal is to see if fastai and another resnet can improve on that.
+For this problem, the benchmark model will be a resnet-152 pytorch classifier developed by Viridiana Romero Martinez as referenced in her medium article https://medium.com/datadriveninvestor/creating-an-ai-app-that-detect-diseases-in-plants-using-facebooks-deep-learning-platform-pytorch-15faaeb6bec3. The model produced a high accuracy score, 96.1% and the goal is to see if fastai and another resnet can improve on that.
 
 ### Evaluation Metrics
 
