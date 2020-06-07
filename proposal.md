@@ -16,7 +16,7 @@ Pest and disease induced crop losses have devasted farms across the world but th
 
 ### Problem Statement
 
-The goal of this project is to fit a Convolutional Neural Network developed using the Fastai library and Pytorch. I am going to use transfer Learning with ResNet a deep residual learning framework developed at Microsoft in order to achieve accurate classification of the plant images. 
+The goal of this project is to fit a Convolutional Neural Network using the Fastai library and Pytorch. I am going to use transfer Learning with ResNet, a deep residual learning framework developed at Microsoft in order to achieve accurate classification of the plant images. 
 
 ### Datasets and Inputs
 
