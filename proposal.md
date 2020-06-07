@@ -13,7 +13,6 @@ As the world grows in population every year the demand for food is also rising, 
 
 Pest and disease induced crop losses have devasted farms across the world but thanks to advances in machine learning farmers can detect diseases early through the use of computer vision in the browser or on a mobile device. Convolutional Neural Networks which a class of deep neural networks for analysis visual imagery have been widely used in image classification problems and their applications have been promising.
 
-
 ### Problem Statement
 
 The goal of this project is to fit a Convolutional Neural Network on the data using the Fastai library and Pytorch. I am going to use transfer learning with ResNet, a deep residual learning framework developed at Microsoft in order to achieve accurate classification of the plant images. Transfer learning focuses on storing knowledge gained while solving one problem and applying it to a different but related problem.
@@ -36,9 +35,6 @@ For this problem, the benchmark model will be a resnet-152 pytorch classifier de
 ### Evaluation Metrics
 
 The model will evaluated on accuracy a common metric for classification problems; it takes into account both true positives and true negatives with equal weight.
-
-$accuracy = (true positives + true negatives)/dataset size$
-
 
 ### Project Design
 
