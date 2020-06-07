@@ -27,7 +27,7 @@ The images span 14 crop species: Apple, Blueberry, Cherry, Grape, Orange, Peach,
 
 ### Solution Statement
 
-The solution will be a fastai classification model capable of correctly identifying whether an image contains a specfic plant disease or not with a high accuracy. The model will also be deployed in a web application for farmers to use.
+The solution will be a fastai classification model capable of correctly identifying whether an image contains a specfic plant disease or not with a high accuracy. The model will also be deployed in a web application developed using python and flask for farmers to use.
 
 ### Benchmark Model
 
