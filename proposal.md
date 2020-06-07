@@ -35,11 +35,10 @@ For this problem, the benchmark model will be a resnet-152 pytorch classifier de
 
 ### Evaluation Metrics
 
-The model will evaluated on accuracy a common metric for classification problems; it takes into account both true positives and true
-negatives with equal weight.
+The model will evaluated on accuracy a common metric for classification problems; it takes into account both true positives and true negatives with equal weight.
 
-accuracy = (^) dataset size
-true positives + true negatives
+$accuracy = (true positives + true negatives)/dataset size$
+
 
 ### Project Design
 
