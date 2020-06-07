@@ -9,7 +9,7 @@ Plant Disease Detection using Pytorch and Fastai
 
 ### Domain Background
 
-As the world grows in population every year the demand for food is also rising, however a growing threat in the form of plant diseases threatens to worsen the already strained food supply on the continent. 
+As the world grows in population every year the demand for food is also rising, however a growing threat in the form of plant diseases threatens to worsen the already strained food supply.
 
 Pest and disease induced crop losses have devasted farms across the world but thanks to advances in machine learning farmers can detect diseases early through the use of computer vision in the browser or on a mobile device. Convolutional Neural Networks which a class of deep neural networks for analysis visual imagery have been widely used in image classification problems and their applications have been promising.
 
