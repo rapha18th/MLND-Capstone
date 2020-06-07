@@ -11,12 +11,13 @@ Plant Disease Detection using Pytorch and Fastai
 
 As the world grows in population every year the demand for food is also rising, however a growing threat in the form of plant diseases threatens to worsen the already strained food supply on the continent. 
 
-Pest and disease induced crop losses have devasted farms across the world but thanks to advances in machine learning farmers can detect diseases early through the use of computer vision in the browser or on a mobile device.
+Pest and disease induced crop losses have devasted farms across the world but thanks to advances in machine learning farmers can detect diseases early through the use of computer vision in the browser or on a mobile device. Convolutional Neural Networks which a class of deep neural networks for analysis visual imagery have been widely used in image classification problems and their applications have been promising.
 
 
 ### Problem Statement
 
-The goal of this project is to fit a Convolutional Neural Network on the data using the Fastai library and Pytorch. I am going to use transfer Learning with ResNet, a deep residual learning framework developed at Microsoft in order to achieve accurate classification of the plant images. 
+The goal of this project is to fit a Convolutional Neural Network on the data using the Fastai library and Pytorch. I am going to use transfer learning with ResNet, a deep residual learning framework developed at Microsoft in order to achieve accurate classification of the plant images. Transfer learning focuses on storing knowledge gained while solving one problem and applying it to a different but related problem.
+Resnets have been trained on the imagenet dataset which contains millions of images so their knowledge of those features will be very help in this case.
 
 ### Datasets and Inputs
 
@@ -48,5 +49,6 @@ The project is expected to follow the steps below:
 ### References
 
 - Original crowdai dataset https://github.com/SpikerJG/PlantDiseaseData.git
+- Resnet, https://neurohive.io/en/popular-networks/resnet/
 -  David Hughes paper, https://arxiv.org/ftp/arxiv/papers/1604/1604.03169.pdf
 - Viridiana Romero Martinez's medium article https://medium.com/datadriveninvestor/creating-an-ai-app-that-detect-diseases-in-plants-using-facebooks-deep-learning-platform-pytorch-15faaeb6bec3
