@@ -35,7 +35,7 @@ For this problem, the benchmark model will be a resnet-152 pytorch classifier de
 
 ### Evaluation Metrics
 
-The model will evaluated on accuracy and loss in classifying the images correctly.
+The model will evaluated on accuracy, precision and recall in classifying the images correctly. A confusion matrix will be tabulated to show more details.
 
 ### Project Design
 
