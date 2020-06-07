@@ -40,10 +40,16 @@ The model will evaluated on accuracy a common metric for classification problems
 
 The project is expected to follow the steps below:
 
-* Data exploration and preprocessing
-* Model selection
-* Training and validation
-* Summarisation of the results
+* __Data exploration and preprocessing:__
+Explore the data by looking at the number of classes and then preprocess it to make it easier for train by resizing every image to (224, 224) and then use the .normalize(imagenet_stats) method from fastai to normalise the dataset based on the stats of the RGB channels from the ImageNet dataset
+* __Model selection:__
+Choose a pretrained model starting with Resnet34 and Resnet50
+* __Training and validation:__
+Train the convolutional neural network on the training set and then fit it on the test/validation set. 
+* __Summarisation of the results:__
+Calculate the accuracy and construct a confusion matrix
+* __Develop and deploy a web application:__
+Use python and flask to develop a simple web application for a user to input images which will be classifed by the model and return the results to the user
 
 ### References
 
