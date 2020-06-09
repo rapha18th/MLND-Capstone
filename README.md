@@ -12,7 +12,7 @@
 
 This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
 
-The web app described here is up at https://plantdiseaseml.onrender.com. Test it out with images of plant leaves!
+The web app described here is up at https://plantdiseaseml.onrender.com and is linked from this repository: [fastaiWebApp](https://github.com/rapha18th/fastaiWebApp.git), Test it out with images of plant leaves! 
 
 You can test your changes locally by installing Docker and using the following command:
 
