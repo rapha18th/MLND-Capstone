@@ -1,10 +1,10 @@
 
 ## Summary of included files
 
-- The project proposal
-- The notebooks with the machine learning process resnet50 and resnet34
-- The web application
-- The Project report
+- The project proposal.
+- The notebooks with the machine learning process and named after the models resnet50 and resnet34.
+- The python web application.
+- The project report.
 
 
 
