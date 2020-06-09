@@ -1,16 +1,12 @@
 
 ## Summary of included files
 
--The project proposal
--The notebooks with the machine learning process
--The web application
--The Project report
+- The project proposal
+- The notebooks with the machine learning process resnet50 and resnet34
+- The web application
+- The Project report
 
-References
-- Original crowdai dataset https://github.com/MichaelGerhard/PlantDiseaseData
-- Resnet, https://neurohive.io/en/popular-networks/resnet/
--  David Hughes paper, https://arxiv.org/ftp/arxiv/papers/1604/1604.03169.pdf
-- Viridiana Romero Martinez's medium article https://medium.com/datadriveninvestor/creating-an-ai-app-that-detect-diseases-in-plants-using-facebooks-deep-learning-platform-pytorch-15faaeb6bec3
+
 
 ## To deploy the web app on [Render](https://render.com)
 
@@ -29,8 +25,15 @@ The guide for production deployment to Render is at https://course.fast.ai/deplo
 Please use [Render's fast.ai forum thread](https://forums.fast.ai/t/deployment-platform-render/33953) for questions and support.
 
 ### Screenshots of the app:
+- i
 [![Screenshot-2020-06-09-at-13-53-37.png](https://i.postimg.cc/3xmfPL3s/Screenshot-2020-06-09-at-13-53-37.png)](https://postimg.cc/BjZCFBLp)
-
+- ii
 [![Screenshot-2020-06-09-at-13-52-58.png](https://i.postimg.cc/rFdP9V3F/Screenshot-2020-06-09-at-13-52-58.png)](https://postimg.cc/mtsjLsT0)
 
-Reference: https://towardsdatascience.com/create-and-deploy-an-image-classifier-using-fastai-and-render-in-15-mins-947f9de42d21
+
+References
+- Original crowdai dataset https://github.com/MichaelGerhard/PlantDiseaseData
+- Resnet, https://neurohive.io/en/popular-networks/resnet/
+-  David Hughes paper, https://arxiv.org/ftp/arxiv/papers/1604/1604.03169.pdf
+- Viridiana Romero Martinez's medium article https://medium.com/datadriveninvestor/creating-an-ai-app-that-detect-diseases-in-plants-using-facebooks-deep-learning-platform-pytorch-15faaeb6bec3
+- https://towardsdatascience.com/create-and-deploy-an-image-classifier-using-fastai-and-render-in-15-mins-947f9de42d21
