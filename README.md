@@ -8,7 +8,7 @@
 
 
 
-## To deploy the web app on [Render](https://render.com)
+## To test the web app locally or deploy it on [Render](https://render.com)
 
 This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
 
